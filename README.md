@@ -29,11 +29,6 @@ Great for interview prep, brushing up on coding, or contributing to open-source!
 
 > Make sure Python 3.x is installed on your system.
 
-
-# Clone the repo
-git clone https://github.com/your-username/leetcode-python-solutions.git
-cd leetcode-python-solutions
-
 # Run a solution
 python two_sum.py
 

@@ -46,10 +46,10 @@ Ensure you have **Python 3.x** installed. You can run any solution script as fol
 python two_sum.py
 Each file is standalone and includes inline comments or test cases for better understanding and self-verification.
 
-#⭐ Contributing
+# ⭐ Contributing
 This is an evolving repository. More problems and solutions will be added over time. Contributions, suggestions, or improvements are always welcome.
 
 If you find this helpful, consider starring ⭐ the repository.
 
-#📬 Contact
+# 📬 Contact
 For questions, suggestions, or collaborations, feel free to reach out.

@@ -49,14 +49,14 @@ Each solution is:
 Ensure you have **Python 3.x** installed. You can run any solution script as follows:
 
 
-# Example: Run Happy Number
+### Example: Run Happy Number
 python 202_happy_number.py
 
 
-# ⭐ Contributing
+### ⭐Contributing
 This is an evolving repository. More problems and solutions will be added over time. Contributions, suggestions, or improvements are always welcome.
 
 If you find this helpful, consider starring ⭐ the repository.
 
-# 📬 Contact
+### 📬 Contact
 For questions, suggestions, or collaborations, feel free to reach out.

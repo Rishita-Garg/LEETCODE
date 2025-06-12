@@ -41,10 +41,6 @@ Each solution is:
 | 349  | Intersection of Two Arrays             | Easy       | (https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 350  | Intersection of Two Arrays II          | Easy       | (https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 2215 | Find the Difference of Two Arrays      | Easy       | (https://leetcode.com/problems/find-the-difference-of-two-arrays/) |
-3   | Longest Substring Without Repeating Characters | Medium | [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-209 | Minimum Size Subarray Sum                      | Medium | [https://leetcode.com/problems/minimum-size-subarray-sum/](https://leetcode.com/problems/minimum-size-subarray-sum/)
-567 | Permutation in String                          | Medium | [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)
-239 | Sliding Window Maximum                         | Hard   | [https://leetcode.com/problems/sliding-window-maximum/](https://leetcode.com/problems/sliding-window-maximum/)
 
 
 ---

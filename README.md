@@ -22,25 +22,35 @@ Each solution is:
 
 ## 📌 Problem Index
 
-| #    | Problem                               | Difficulty | LeetCode Link |
-|------|----------------------------------------|------------|----------------|
-| 1    | Two Sum                                | Easy       | [https://leetcode.com/problems/two-sum/) |
-| 14   | Longest Common Prefix                  | Easy       | (https://leetcode.com/problems/longest-common-prefix/) |
-| 28   | Implement strStr() (KMP Algorithm)     | Easy       | (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-| 49   | Group Anagrams                         | Medium     | (https://leetcode.com/problems/group-anagrams/) |
-| 53   | Maximum Subarray (Kadane’s Algorithm)  | Medium     | (https://leetcode.com/problems/maximum-subarray/) |
-| 121  | Best Time to Buy and Sell Stock        | Easy       | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 125  | Valid Palindrome                       | Easy       | (https://leetcode.com/problems/valid-palindrome/) |
-| 202  | Happy Number                           | Easy       | (https://leetcode.com/problems/happy-number/) |
-| 205  | Isomorphic Strings                     | Easy       | (https://leetcode.com/problems/isomorphic-strings/) |
-| 217  | Contains Duplicate                     | Easy       | (https://leetcode.com/problems/contains-duplicate/) |
-| 238  | Product of Array Except Self           | Medium     | (https://leetcode.com/problems/product-of-array-except-self/) |
-| 242  | Valid Anagram                          | Easy       | (https://leetcode.com/problems/valid-anagram/) |
-| 283  | Move Zeroes                            | Easy       | (https://leetcode.com/problems/move-zeroes/) |
-| 347  | Top K Frequent Elements                | Medium     | (https://leetcode.com/problems/top-k-frequent-elements/) |
-| 349  | Intersection of Two Arrays             | Easy       | (https://leetcode.com/problems/intersection-of-two-arrays/) |
-| 350  | Intersection of Two Arrays II          | Easy       | (https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
-| 2215 | Find the Difference of Two Arrays      | Easy       | (https://leetcode.com/problems/find-the-difference-of-two-arrays/) |
+📌 Problem Index
+
+| #   | Problem Name                                | Difficulty | LeetCode Link                                                                 |
+|-----|---------------------------------------------|------------|--------------------------------------------------------------------------------|
+| 1   | Two Sum                                     | Easy       | [Link](https://leetcode.com/problems/two-sum/)                                |
+| 3   | Longest Substring Without Repeating Characters | Medium    | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 14  | Longest Common Prefix                       | Easy       | [Link](https://leetcode.com/problems/longest-common-prefix/)                  |
+| 28  | Implement strStr() (KMP Algorithm)          | Easy       | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 49  | Group Anagrams                              | Medium     | [Link](https://leetcode.com/problems/group-anagrams/)                         |
+| 53  | Maximum Subarray                            | Medium     | [Link](https://leetcode.com/problems/maximum-subarray/)                       |
+| 121 | Best Time to Buy and Sell Stock             | Easy       | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        |
+| 125 | Valid Palindrome                            | Easy       | [Link](https://leetcode.com/problems/valid-palindrome/)                       |
+| 202 | Happy Number                                | Easy       | [Link](https://leetcode.com/problems/happy-number/)                           |
+| 205 | Isomorphic Strings                          | Easy       | [Link](https://leetcode.com/problems/isomorphic-strings/)                     |
+| 209 | Minimum Size Subarray Sum                   | Medium     | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/)              |
+| 217 | Contains Duplicate                          | Easy       | [Link](https://leetcode.com/problems/contains-duplicate/)                     |
+| 238 | Product of Array Except Self                | Medium     | [Link](https://leetcode.com/problems/product-of-array-except-self/)           |
+| 239 | Sliding Window Maximum                      | Hard       | [Link](https://leetcode.com/problems/sliding-window-maximum/)                 |
+| 242 | Valid Anagram                               | Easy       | [Link](https://leetcode.com/problems/valid-anagram/)                          |
+| 283 | Move Zeroes                                 | Easy       | [Link](https://leetcode.com/problems/move-zeroes/)                            |
+| 347 | Top K Frequent Elements                     | Medium     | [Link](https://leetcode.com/problems/top-k-frequent-elements/)                |
+| 349 | Intersection of Two Arrays                  | Easy       | [Link](https://leetcode.com/problems/intersection-of-two-arrays/)             |
+| 350 | Intersection of Two Arrays II               | Easy       | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/)          |
+| 567 | Permutation in String                       | Medium     | [Link](https://leetcode.com/problems/permutation-in-string/)                  |
+| 2215| Find the Difference of Two Arrays           | Easy       | [Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/)      |
+| 11  | Container With Most Water                   | Medium     | [Link](https://leetcode.com/problems/container-with-most-water/)              |
+| 15  | 3Sum                                        | Medium     | [Link](https://leetcode.com/problems/3sum/)                                   |
+| 167 | Two Sum II - Input Array Is Sorted          | Medium     | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)       |
+| 26  | Remove Duplicates from Sorted Array         | Easy       | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)    |
 
 
 ---

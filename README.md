@@ -9,7 +9,7 @@
 
 ## 📘 About
 
-This repository contains Python solutions to selected LeetCode problems, chosen based on frequency in technical interviews and algorithmic depth.
+This repository contains Python solutions to selected LeetCode problems, chosen based on frequency in technical interviews and algorithmic depth. This list has been curated to build good knowledge and analyse crucial questions solving patterns.
 
 Each solution is:
 
